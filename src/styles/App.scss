@@ -19,3 +19,11 @@ body {
   border-width: 1px 0;
   background: #666;
 }
+
+/*Test fo PostCSS autoprefixer*/
+:fullscreen a {
+    display: flex
+}
+a {
+    display: flex;
+}
