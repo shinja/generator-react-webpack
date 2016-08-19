@@ -10,7 +10,7 @@ injectTapEventPlugin();
 
 let App = () => (
     <MuiThemeProvider>
-        <div>
+        <div class="test-classname-transfer">
             <MyAwesomeReactComponent />
             <DialogExampleDialogDatePickerComponent />
         </div>
